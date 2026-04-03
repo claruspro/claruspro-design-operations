@@ -30,3 +30,5 @@ orders@claruspro.be
 
 For order inquiries:
 orders@claruspro.be
+
+_Product documentation updated._
